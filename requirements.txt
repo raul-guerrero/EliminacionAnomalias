@@ -4,7 +4,3 @@ opencv
 jupyterlab
 matplotlib
 pillow
-matplotlib
-
-#Este es del canal conda-forge, se tiene que agregar al ambiente de anaconda
-imutils
