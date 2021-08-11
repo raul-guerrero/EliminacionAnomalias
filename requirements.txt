@@ -4,3 +4,4 @@ opencv
 jupyterlab
 matplotlib
 pillow
+imutils
